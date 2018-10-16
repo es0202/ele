@@ -14,17 +14,8 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+参考：
+https://segmentfault.com/a/1190000009356676
+https://github.com/ustbhuangyi/vue-sell
 
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+线上请访问http://chloelih.club/element/dist/index.html#/
